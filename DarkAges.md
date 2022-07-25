@@ -65,27 +65,27 @@ The Dark Ages do not feature a huge range of armour-types. Instead, you might li
 
 | Armour | Cost | DR | Max Dex | Properties | Strength | Weight |
 |:-------|-----:|:--:|:-------:|:-----------|:--------:|-------:|
-| Silk Tunic | 300 sp | +1 | — | Clothing, soak <img src="https://img.icons8.com/ios/12/000000/archer-filled.png"> | 5 | 4 lb. |
-| Thick Woolen Tunic | 5 sp | +1 | +5 | Clothing, soak <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png"> | 7 | 8 lb. |
-| Rawhide Tunic | 10 sp | +1 | +5 | Clothing, soak <img src="https://img.icons8.com/ios/12/000000/sword-filled.png"> | 7 | 10 lb. |
-| Mastercrafted Woolen Tunic | 25 sp | +2 | +5 | Clothing, coverage 14-16, soak <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png"> | 9 | 13 lb. |
-| Fur Cloak | 5 sp | — | +4 | +1 DR vs <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png">, bulky, clothing | 9 | 5 lb. |
-| Overcoat | 5 sp | — | +4 | +1 DR vs <img src="https://img.icons8.com/ios/12/000000/archer-filled.png">, bulky, clothing | 9 | 5 lb. |
-| Hide Cloak | 5 sp | — | +4 | +1 DR vs <img src="https://img.icons8.com/ios/12/000000/sword-filled.png">, bulky, clothing | 9 | 5 lb. |
-| Buckler | 5 sp | — | +5 | Bashing (1<img src="https://img.icons8.com/ios-glyphs/12/0000/thor-hammer.png">), finesse, light, non-lethal, worn | 9 | 5 lb. |
+| Silk Tunic | 300 sp | +1 | — | Clothing, soak <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 5 | 4 lb. |
+| Thick Woolen Tunic | 5 sp | +1 | +5 | Clothing, soak <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 7 | 8 lb. |
+| Rawhide Tunic | 10 sp | +1 | +5 | Clothing, soak <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 7 | 10 lb. |
+| Mastercrafted Woolen Tunic | 25 sp | +2 | +5 | Clothing, coverage 14-16, soak <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 9 | 13 lb. |
+| Fur Cloak | 5 sp | — | +4 | +1 DR vs <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">, bulky, clothing | 9 | 5 lb. |
+| Overcoat | 5 sp | — | +4 | +1 DR vs <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">, bulky, clothing | 9 | 5 lb. |
+| Hide Cloak | 5 sp | — | +4 | +1 DR vs <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png">, bulky, clothing | 9 | 5 lb. |
+| Buckler | 5 sp | — | +5 | Bashing (1<img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), finesse, light, non-lethal, worn | 9 | 5 lb. |
 
 ##### Medium Armour
 
 | Armour | Cost | DR | Max Dex | Properties | Strength | Weight |
 |:-------|-----:|:--:|:-------:|:-----------|:--------:|-------:|
-| Padded Warrior Jacket | 15 sp | +2 | +4 | Clothing, coverage 2 14-16, soak <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png"> | 9 | 25 lb. |
-| Leathern Warrior Jacket | 50 sp | +3 | +3 | Clothing, coverage 2 11-16, soak <img src="https://img.icons8.com/ios/12/000000/sword-filled.png"> | 11 | 30 lb. |
-| Mastercrafted Leathern Jacket | 150 sp | +4 | +3 | Clothing, coverage 2 11-16, soak <img src="https://img.icons8.com/ios/12/000000/sword-filled.png"> | 11 | 25 lb. |
-| Boiled-Leather Warrior Jacket | 100 sp | +4 | +2 | Bulky, coverage 2 11-16, hard, soak <img src="https://img.icons8.com/ios/12/000000/archer-filled.png"> | 13 | 40 lb. |
-| Mastercrafted Boiled-Leather Jacket | 200 sp | +5 | +2 | Bulky, coverage 2 11-16, hard, soak <img src="https://img.icons8.com/ios/12/000000/archer-filled.png"> | 13 | 30 lb. |
+| Padded Warrior Jacket | 15 sp | +2 | +4 | Clothing, coverage 2 14-16, soak <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 9 | 25 lb. |
+| Leathern Warrior Jacket | 50 sp | +3 | +3 | Clothing, coverage 2 11-16, soak <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 11 | 30 lb. |
+| Mastercrafted Leathern Jacket | 150 sp | +4 | +3 | Clothing, coverage 2 11-16, soak <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 11 | 25 lb. |
+| Boiled-Leather Warrior Jacket | 100 sp | +4 | +2 | Bulky, coverage 2 11-16, hard, soak <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 13 | 40 lb. |
+| Mastercrafted Boiled-Leather Jacket | 200 sp | +5 | +2 | Bulky, coverage 2 11-16, hard, soak <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 13 | 30 lb. |
 | Spangenhelm | 15 sp | — | — | Coverage 4 | 11 | 5 lb. |
-| Shield, wooden | 3 sp | — | +4 | Bashing (1d4 <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png">), non-lethal | 11 | 5 lb. |
-| Shield, steel | 9 sp | — | +4 | Bashing (1d4 <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png">), non-lethal | 11 | 6 lb. |
+| Shield, wooden | 3 sp | — | +4 | Bashing (1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), non-lethal | 11 | 5 lb. |
+| Shield, steel | 9 sp | — | +4 | Bashing (1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), non-lethal | 11 | 6 lb. |
 
 ##### Heavy Armour
 
@@ -95,8 +95,8 @@ The Dark Ages do not feature a huge range of armour-types. Instead, you might li
 | Old Well-Maintained Mailcoat | 250 sp | +6 | +0 | Bulky, coverage 1-2 8-16, noisy | 15 | 50 lb. |
 | Full Mailcoat | 600 sp | +7 | +0 | Bulky, coverage 1-2 8-16, noisy | 15 | 50 lb. |
 | Mastercrafted Full Mailcoat | 1500 sp | +8 | +1 | Bulky, coverage 1-2 5-16, noisy | 15 | 45 lb. |
-| Shield, wooden | 7 sp | — | +3 | Bashing (1d6 <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png">), bulky, non-lethal, unwieldy | 13 | 10 lb. |
-| Shield, steel | 20 sp | — | +3 | Bashing (1d6 <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png">), bulky, non-lethal, unwieldy | 13 | 15 lb. |
+| Shield, wooden | 7 sp | — | +3 | Bashing (1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), bulky, non-lethal, unwieldy | 13 | 10 lb. |
+| Shield, steel | 20 sp | — | +3 | Bashing (1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), bulky, non-lethal, unwieldy | 13 | 15 lb. |
 | Shield, tower | 30 sp | — | +2 | Bulky, cover | 15 | 45 lb. |
 
 ### Hard Wearing Tunics<br>(Light Armour)
@@ -126,43 +126,43 @@ A sweord is not merely a death-dealing weapon, but a potent symbol of leadership
 
 | Name | Cost | Damage | Properties | Str/Dex | Weight | 
 |:-----|-----:|:------:|:-----------|:-------:|-------:|
-| Smith's Hammer | 2 sp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png"> | Light, thrown (20/60) | 5 | 1 lb. |
-| Shortseax / Kurzsax | 2 sp | 1d4 <img src="https://img.icons8.com/ios/12/000000/archer-filled.png">/<img src="https://img.icons8.com/ios/12/000000/sword-filled.png"> | Close, concealed, thrown (20/60) | 5 | 1 lb. |
-| Club | 1 cp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png"> | Non-lethal | 7 | 3 lb. |
-| Light Mace | 5 sp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png"> | Light | 7 | 2 lb. |
-| Sickle | 1 sp | 1d6 <img src="https://img.icons8.com/ios/12/000000/sword-filled.png"> | Light | 7 | 2 lb. |
-| Hand Axe | 5 sp | 1d6 <img src="https://img.icons8.com/ios/12/000000/sword-filled.png"> | Light, thrown (20/60) | 7 | 1 lb. |
-| Throwing Spear | 5 cp | 1d6 <img src="https://img.icons8.com/ios/12/000000/archer-filled.png"> | Sharp 1, thrown (30/120) | 7 | 2 lb. |
-| Hunter's Spear | 1 sp | 1d6 <img src="https://img.icons8.com/ios/12/000000/archer-filled.png"> | Brutal 1, finesse, mounted strike, sharp 1, threatening, thrown (20/60), versatile | 9 | 3 lb. |
-| Heavy Mace | 12 sp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png"> | — | 9 | 4 lb. |
-| Greatclub | 2 cp | 1d10 <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png"> | Non-lethal, two-handed, unwieldy | 11 | 8 lb. |
-| Quarterstaff | 2 cp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png"> | Double, finesse, non-lethal | 7 | 4 lb. |
+| Smith's Hammer | 2 sp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | Light, thrown (20/60) | 5 | 1 lb. |
+| Shortseax / Kurzsax | 2 sp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Close, concealed, thrown (20/60) | 5 | 1 lb. |
+| Club | 1 cp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | Non-lethal | 7 | 3 lb. |
+| Light Mace | 5 sp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | Light | 7 | 2 lb. |
+| Sickle | 1 sp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Light | 7 | 2 lb. |
+| Hand Axe | 5 sp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Light, thrown (20/60) | 7 | 1 lb. |
+| Throwing Spear | 5 cp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | Sharp 1, thrown (30/120) | 7 | 2 lb. |
+| Hunter's Spear | 1 sp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | Brutal 1, finesse, mounted strike, sharp 1, threatening, thrown (20/60), versatile | 9 | 3 lb. |
+| Heavy Mace | 12 sp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | — | 9 | 4 lb. |
+| Greatclub | 2 cp | 1d10 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | Non-lethal, two-handed, unwieldy | 11 | 8 lb. |
+| Quarterstaff | 2 cp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | Double, finesse, non-lethal | 7 | 4 lb. |
 
 ##### Martial Weapons
 
 | Name | Cost | Damage | Properties | Str/Dex | Weight | 
 |:-----|-----:|:------:|:-----------|:-------:|-------:|
-| Seax / Sax | 10 sp | 1d6 <img src="https://img.icons8.com/ios/12/000000/archer-filled.png">/<img src="https://img.icons8.com/ios/12/000000/sword-filled.png"> | Light, parry | 7 | 2 lb. |
-| Narrowseax / Schmalsax | 15 sp | 1d8 <img src="https://img.icons8.com/ios/12/000000/archer-filled.png">/<img src="https://img.icons8.com/ios/12/000000/sword-filled.png"> | Finesse, parry | 9 | 2 lb. |
-| Sweord | 300 sp | 2d4 <img src="https://img.icons8.com/ios/12/000000/archer-filled.png">/<img src="https://img.icons8.com/ios/12/000000/sword-filled.png"> | Finesse, parry, prestigious | 9 | 2 lb. |
-| Axe | 10 sp | 1d8 <img src="https://img.icons8.com/ios/12/000000/sword-filled.png"> | Brutal 1, disarm, hooked, versatile | 11 | 2 lb. |
-| Longseax / Langsax | 15 sp | 1d8 <img src="https://img.icons8.com/ios/12/000000/archer-filled.png">/<img src="https://img.icons8.com/ios/12/000000/sword-filled.png"> | Parry, versatile | 11 | 3 lb. |
-| Warrior's Spear | 5 sp | 1d10 <img src="https://img.icons8.com/ios/12/000000/archer-filled.png"> | Brutal 1, mounted strike, phalanx, reach, sharp 1, threatening, two-handed | 11 | 5 lb. |
-| Broadaxe | 30 sp | 1d12 <img src="https://img.icons8.com/ios/12/000000/sword-filled.png"> | Brutal 1, disarm, hooked, trip, two-handed | 13 | 3 lb. |
-| Broadseax / Breitsax | 50 sp | 2d6 <img src="https://img.icons8.com/ios/12/000000/archer-filled.png">/<img src="https://img.icons8.com/ios/12/000000/sword-filled.png"> | Parry, two-handed | 13 | 6 lb. |
+| Seax / Sax | 10 sp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Light, parry | 7 | 2 lb. |
+| Narrowseax / Schmalsax | 15 sp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Finesse, parry | 9 | 2 lb. |
+| Sweord | 300 sp | 2d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Finesse, parry, prestigious | 9 | 2 lb. |
+| Axe | 10 sp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Brutal 1, disarm, hooked, versatile | 11 | 2 lb. |
+| Longseax / Langsax | 15 sp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Parry, versatile | 11 | 3 lb. |
+| Warrior's Spear | 5 sp | 1d10 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | Brutal 1, mounted strike, phalanx, reach, sharp 1, threatening, two-handed | 11 | 5 lb. |
+| Broadaxe | 30 sp | 1d12 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Brutal 1, disarm, hooked, trip, two-handed | 13 | 3 lb. |
+| Broadseax / Breitsax | 50 sp | 2d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Parry, two-handed | 13 | 6 lb. |
 
 ##### Simple Ranged Weapons
 
 | Name | Cost | Damage | Properties | Str/Dex | Weight | 
 |:-----|-----:|:------:|:-----------|:-------:|-------:|
-| Dart | 1 cp | 1d4 <img src="https://img.icons8.com/ios/12/000000/archer-filled.png"> | Light, non-lethal, thrown (20/60) | 5 | ¼ lb. |
-| Sling | 1 cp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/000000/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/000000/archer-filled.png"> | Non-lethal, pellets | 5 | — |
-| Hunter's Bow | 25 sp | 1d6 <img src="https://img.icons8.com/ios/12/000000/archer-filled.png"> | Ammunition (80/320), two-handed | 7 | 2 lb. |
+| Dart | 1 cp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | Light, non-lethal, thrown (20/60) | 5 | ¼ lb. |
+| Sling | 1 cp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | Non-lethal, pellets | 5 | — |
+| Hunter's Bow | 25 sp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | Ammunition (80/320), two-handed | 7 | 2 lb. |
 
 ##### Martial Ranged Weapons
 
 | Name | Cost | Damage | Properties | Str/Dex | Weight | 
 |:-----|-----:|:------:|:-----------|:-------:|-------:|
-| Blowgun | 10 sp | 1 <img src="https://img.icons8.com/ios/12/000000/archer-filled.png"> | Ammunition (range 25/100), loading,<br>non-lethal | — | 1 lb. |
-| Warrior's Bow | 50 sp | 1d8 <img src="https://img.icons8.com/ios/12/000000/archer-filled.png"> | Ammunition (range 150/600), brutal 1,<br>two-handed | 9 | 2 lb. |
+| Blowgun | 10 sp | 1 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | Ammunition (range 25/100), loading,<br>non-lethal | — | 1 lb. |
+| Warrior's Bow | 50 sp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | Ammunition (range 150/600), brutal 1,<br>two-handed | 9 | 2 lb. |
   
