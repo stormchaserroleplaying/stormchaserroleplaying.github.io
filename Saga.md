@@ -1,6 +1,6 @@
 ---
 title: SWSE House Rules
-nav_order: 2
+nav_order: 3
 ---
 
 # Star Wars Saga Edition House Rules
