@@ -7,8 +7,8 @@ Welcome to the official website for Stormchaser Roleplaying.
 
 # Helpful Links
 * [Stormchaser Roleplaying Community Discord](https://discord.gg/HX9EK4A)
-* [The Stormchaser RPG](https://stormchaserrpg.github.io/) (*Under Construction*)
-* [Heroes in the Storm](https://heroesinthestorm.github.io/) (*Under Construction*)
+* [The Stormchaser RPG](https://stormchaserroleplaying.github.io/stormchaserRPG) (*Under Construction*)
+* [Heroes in the Storm](https://stormchaserroleplaying.github.io/heroesinthestorm) (*Under Construction*)
 * [SC5e Index](https://www.gmbinder.com/share/-MjzooP55UaAVbrEwN7C)
 * [SC5e Legacy Index](https://www.gmbinder.com/share/-MjzjZBb7BG23h6HaK7J)
 * [Grit and Glory](https://www.gmbinder.com/share/-LDHolQY2FURKf-8xCT3)
