@@ -1,3 +1,8 @@
+---
+title: SWSE House Rules
+nav_order: 2
+---
+
 # Star Wars Saga Edition House Rules
 
 ## Heroic Classes
