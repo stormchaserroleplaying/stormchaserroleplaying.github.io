@@ -1,3 +1,8 @@
+---
+title: Dark Ages House Rules
+nav_order: 3
+---
+
 # Dark Ages House Rules for SC5e
 
 ## Beyond 1st Level
