@@ -21,6 +21,7 @@ Most talents that can be taken multiple times for cumulative effect must only be
 Followers obtained via talents are issued instructions using the same action economy described in the "Droid as Equipment" section of the Scavenger's Guide to Droids (page 35):
 
 ##### Droid/Follower Actions
+
 | Drod/Follower Action Cost | Player Action Cost |
 |:--------------------------|:-------------------|
 | Free | 1 Free Action |
@@ -36,11 +37,11 @@ The base talent granting followers grants one follower per tree talent, to a max
 ## Skills
 * The skills Climb, Jump and Swim are combined into one skill named Athletics.
 * The Ride skill and its applications are considered to be covered by the Acrobatics skill.
-* When a skill is used to target a defence, roll: <center>**1d20+level+stat**</center> and subtract 5 if not proficient or add 1 if the character has skill focus.
+* When a skill is used to target a defence, roll: <center><strong>1d20+level+stat</strong></center> and subtract 5 if not proficient or add 1 if the character has skill focus.
 
 ## Feats
 - Double attack and triple attack are free once the prerequisite BAB is fulfilled.
-- The Force Training feat provides: <center>**1 + your Wisdom modifier**</center> in powers known and also expands the number of Force powers that you can use per meditation by: <center>**1 + your Wisdom modifier**.</center> Force powers may be used repeatedly and must not be learned multiple times.
+- The Force Training feat provides: <center><strong>1 + your Wisdom modifier**</strong></center> in powers known and also expands the number of Force powers that you can use per meditation by: <center><strong>1 + your Wisdom modifier</strong>.</center> Force powers may be used repeatedly and must not be learned multiple times.
 - Starship Tactics is based on int instead of wis.
 - Weapon Finesse is free to all characters.
 - When using Vehicular Combat, the DC of the skill check is equal to the result of the attack roll that you wish to negate and you take a cumulative -5 penalty on your Pilot check every time you have used Vehicular Combat since the beginning of your last turn.
@@ -48,11 +49,7 @@ The base talent granting followers grants one follower per tree talent, to a max
 ### Droid Programmer
 You are trained to program (and reprogram) droids.<br>
 *Prerequisites:* Tech Specialist, trained in the Use Computer skill.<br>
-*Benefit:* You can program heroic droids with a heuristic processor. The droid's level may not exceed the programmer's own level -2. Programming a heroic droid requires a Use Computer check of:
-
-<center>**DC = 20 + the droid's level**</center>
-
-and requires a number of days equal to twice the number of levels added to the droid. This time may be halved by increasing the check DC by five.
+*Benefit:* You can program heroic droids with a heuristic processor. The droid's level may not exceed the programmer's own level -2. Programming a heroic droid requires a Use Computer check of: <center><strong>DC = 20 + the droid's level</strong></center> and requires a number of days equal to twice the number of levels added to the droid. This time may be halved by increasing the check DC by five.
 
 ## Equipment
 Armour now grants a bonus to DR instead of to reflex defence.
@@ -64,5 +61,5 @@ Armour now grants a bonus to DR instead of to reflex defence.
 ## Droids
 
 ### Crafting
-* A character trained in use computer may program non-heroic droids with a basic processor. The droid's level may not exceed the programmer's own level -2. Programming a non-heroic droid requires a Use Computer check of: <center>**DC = 10 + the droid's level**</center> and requires a number of days of work equal to the droid's level. This time may be halved by increasing the check DC by five.
+* A character trained in use computer may program non-heroic droids with a basic processor. The droid's level may not exceed the programmer's own level -2. Programming a non-heroic droid requires a Use Computer check of: <center><strong>DC = 10 + the droid's level</strong></center> and requires a number of days of work equal to the droid's level. This time may be halved by increasing the check DC by five.
 * Droids can have their base stats upgraded by +1 at a cost of 500 cr, capped at 18 before racial modifiers or ASIs.
