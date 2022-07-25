@@ -41,7 +41,7 @@ The base talent granting followers grants one follower per tree talent, to a max
 
 ## Feats
 - Double attack and triple attack are free once the prerequisite BAB is fulfilled.
-- The Force Training feat provides: <center><strong>1 + your Wisdom modifier**</strong></center> in powers known and also expands the number of Force powers that you can use per meditation by: <center><strong>1 + your Wisdom modifier</strong>.</center> Force powers may be used repeatedly and must not be learned multiple times.
+- The Force Training feat provides: <center><strong>1 + your Wisdom modifier</strong></center> in powers known and also expands the number of Force powers that you can use per meditation by: <center><strong>1 + your Wisdom modifier</strong>.</center> Force powers may be used repeatedly and must not be learned multiple times.
 - Starship Tactics is based on int instead of wis.
 - Weapon Finesse is free to all characters.
 - When using Vehicular Combat, the DC of the skill check is equal to the result of the attack roll that you wish to negate and you take a cumulative -5 penalty on your Pilot check every time you have used Vehicular Combat since the beginning of your last turn.
