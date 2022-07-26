@@ -1,6 +1,6 @@
 ---
 title: Dark Ages House Rules
-nav_order: 2
+nav_order: 4
 ---
 
 # Dark Ages House Rules for SC5e
