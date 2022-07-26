@@ -1,5 +1,5 @@
 ---
-title: The Stormchaser Roleplaying Game
+title: The Stormchaser RPG
 nav_order: 2
 ---
 
