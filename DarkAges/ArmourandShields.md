@@ -7,7 +7,7 @@ parent: Dark Ages House Rules
 # Armour and Shields
 The Dark Ages do not feature a huge range of armour-types. Instead, you might like to think of this list as a range of protective clothing. At the low end, travellers and rogues might simply favour a thicker and harder-wearing weave of the standard woolen tunic. At the higher end, true warriors will wear a mailcoat of some kind - the best armour available. Jackets or jerkins also fit conveniently into the medium slot - perhaps they're a borrowed fashion from far away (as they may have been in the real world at this time). Boiled leather is also harder and stronger, but stiff and difficult to move in, whereas buff leather is more easily pierced, but remains supple. Shields are the most common form of true martial protection. Alongside armour, consider leggings, trousers and most importantly the cloak, belt and brooch - all important parts of presentation. Are your clothes of wool or linen - or perhaps you can even afford silk?
 
-## Hard Wearing Tunics<br>(Light Armour)
+## Hard Wearing Tunics (Light Armour)
 A tunic is the standard item of clothing worn by both men and women. Many different styles are worn, from waist-length to ankle-length, and they can incorporate close-fitting trousers or a looser trouser tha tucks into lower leggings. The tunic is usually worn with a belt and also a cape, which can be opened either at the front or at the sword-arm shoulder (typically right) and clasped with a brooch. Hats and hoods are also commonly worn.
 
 ## Warrior Jackets (Medium Armour)
