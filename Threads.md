@@ -5,6 +5,7 @@ nav_order: 6
 
 - The Chronicles of Arden
   - [Sheercleft](https://www.dndbeyond.com/forums/d-d-beyond-general/play-by-post/22396-the-chronicles-of-arden-sheercleft)
+  - [Sheercleft - Homecoming](https://discord.com/channels/476843342001602570/985843959819546624)
   - [Hunters](https://dndbeyond.com/forums/d-d-beyond-general/play-by-post/32262-the-chronicles-of-arden-hunters)
   - [Hellenia](https://app.roll20.net/forum/post/8831028/liberty-beguiling/?pagenum=1)
   - [Je'dahn](https://discord.com/channels/476843342001602570/722185316370350253)
