@@ -1,6 +1,6 @@
 ---
 title: Languages
-nav_order: 1
+nav_order: 2
 parent: Dark Ages House Rules
 ---
 
