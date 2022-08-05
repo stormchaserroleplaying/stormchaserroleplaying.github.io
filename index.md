@@ -22,8 +22,6 @@ More information on Stormchaser Roleplaying projects, house rules and campaigns 
 
 <p align="center">
   
-  <a href="https://stormchaserroleplaying.com">www.stormchaserroleplaying.com</a><br>
-  
   <a href="mailto:stormchaserroleplaying@gmail.com">stormchaserroleplaying@gmail.com</a><br>
   
   <a href="https://twitter.com/keyrelin">@Keyrelin</a> on Twitter
