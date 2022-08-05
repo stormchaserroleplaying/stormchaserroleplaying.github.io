@@ -14,6 +14,7 @@ nav_order: 6
   - [Prologue: One Upon a  Time in the West](https://paizo.com/campaigns/DarkAges/gameplay)
   - [Chapter 1: Change](https://app.roll20.net/forum/post/6708877/chapter-1-change/?pagenum=1)
   - [Chapter 2: Ride of the Red Wolves](https://app.roll20.net/forum/post/8103227/chapter-2-ride-of-the-red-wolves/?pagenum=1)
+  - [Unbound](https://app.roll20.net/forum/post/8597193/unbound/?pagenum=1)
   - [Chapter 3: The Long Road Out of Eden](https://app.roll20.net/forum/post/10511668/chapter-3-the-long-road-out-of-eden/?pagenum=1)
 - Dawn of Defiance
   - [Episode 1: The Traitor’s Gambit - Part 1: Prelude to Defiance](https://app.roll20.net/forum/post/6041651/episode-1-the-traitors-gambit-part-1-prelude-to-defiance/?pagenum=1)
