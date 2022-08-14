@@ -5,4 +5,4 @@ parent: Dark Ages
 has_children: true
 ---
 
-# Dark Ages Rule Adjustments for the *Stormchaser* RPG
+# Dark Ages Rule Adjustments<br>for the *Stormchaser* RPG

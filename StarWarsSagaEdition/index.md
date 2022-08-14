@@ -3,7 +3,7 @@ title: Star Wars Saga Edition
 nav_order: 5
 ---
 
-# Stormchaser's House Rules for *Star Wars Saga Edition*
+# Stormchaser's House Rules<br>for *Star Wars Saga Edition*
 
 ## Heroic Classes
 
