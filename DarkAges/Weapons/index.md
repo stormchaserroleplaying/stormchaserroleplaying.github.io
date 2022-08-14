@@ -1,8 +1,7 @@
 ---
 title: Weapons
 nav_order: 4
-parent: House Rules
-grand_parent: Dark Ages
+parent: Dark Ages
 ---
 
 # Weapons

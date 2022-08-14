@@ -1,8 +1,7 @@
 ---
 title: Armour and Shields
 nav_order: 3
-parent: House Rules
-grand_parent: Dark Ages
+parent: Dark Ages
 ---
 
 # Armour and Shields

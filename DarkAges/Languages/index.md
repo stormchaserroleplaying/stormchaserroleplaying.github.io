@@ -1,12 +1,10 @@
 ---
 title: Languages
 nav_order: 2
-parent: House Rules
-grand_parent: Dark Ages
+parent: Dark Ages
 ---
 
 # Languages
-
 The default language "common" does not exist in our historical setting. Players are proficient in language groups. They are fluent in one language within this group, but can understand and make themselves understood in the others.
 
 ##### Historical Languages

@@ -1,8 +1,7 @@
 ---
 title: General
 nav_order: 1
-parent: House Rules
-grand_parent: Dark Ages
+parent: Dark Ages
 ---
 
 # General House Rules
