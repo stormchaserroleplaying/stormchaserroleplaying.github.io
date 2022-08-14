@@ -1,9 +1,9 @@
 ---
-title: SWSE House Rules
+title: Star Wars Saga Edition
 nav_order: 5
 ---
 
-# Star Wars Saga Edition House Rules
+# Stormchaser's House Rules for *Star Wars Saga Edition*
 
 ## Heroic Classes
 
@@ -20,7 +20,7 @@ Most talents that can be taken multiple times for cumulative effect must only be
 #### Followers
 Followers obtained via talents are issued instructions using the same action economy described in the "Droid as Equipment" section of the Scavenger's Guide to Droids (page 35):
 
-##### Droid/Follower Actions
+###### Droid/Follower Actions
 
 | Drod/Follower Action Cost | Player Action Cost |
 |:--------------------------|:-------------------|

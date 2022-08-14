@@ -1,7 +1,8 @@
 ---
 title: Languages
 nav_order: 2
-parent: Dark Ages House Rules
+parent: House Rules
+grand_parent: Dark Ages
 ---
 
 # Languages
