@@ -25,6 +25,7 @@ nav_order: 7
   - [Episode 2: A Wretched Hive - Part 2: Darga's Palace](https://app.roll20.net/forum/post/7231540/episode-2-a-wretched-hive-part-2-dargas-palace)
   - [Episode 3: The Queen of Air and Darkness](https://app.roll20.net/forum/post/9509626/episode-3-the-queen-of-air-and-darkness/?pagenum=1)
   - [Unforgiven: A Defiance Story](https://app.roll20.net/forum/post/10653821/unforgiven-a-defiance-story/?pagenum=1)
+  - [Sunset on Corsin: A Defiance Story](https://app.roll20.net/forum/post/11007802/sunset-on-corsin-a-defiance-story)
   - [Episode 4: Echoes of the Jedi](https://app.roll20.net/forum/post/10605047/episode-4-echoes-of-the-jedi/?pagenum=1)
 - [The Reprievers](https://discord.com/channels/476843342001602570/871796471710777405)
 - [Procyon Folly](https://discord.com/channels/476843342001602570/871647304199864351)
