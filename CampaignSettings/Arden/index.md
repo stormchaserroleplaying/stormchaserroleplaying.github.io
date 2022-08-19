@@ -12,6 +12,7 @@ In Arden default racial languages do not exist. Instead, languages are regional 
 
 | Language | Region | Script |
 |:---------|:-------|:-------|
+| Ardathian | Ardath | None |
 | Breannian | Breanne | Alban |
 | Eldrani | Eldren | Tengwar |
 | Hellenic | Hellenia | Euclidean |
