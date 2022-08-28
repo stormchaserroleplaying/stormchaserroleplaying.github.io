@@ -1,7 +1,6 @@
 ---
 title: The Crimson Turtle Timeline
-nav_order: 2
-parent: Campaign Settings
+nav_order: 8
 ---
 
 # The Crimson Turtle Timeline
