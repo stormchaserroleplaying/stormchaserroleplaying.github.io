@@ -3,7 +3,7 @@ title: The Crimson Turtle Timeline
 nav_order: 8
 ---
 
-# The Crimson Turtle Timeline
+# The *Crimson Turtle* Timeline
 A Star Wars alternate universe, the Crimson Turtle timeline takes place in a galaxy that for the last 4000 years has been ravaged by megalomaniacal robots known as 'J-droids'. The few remaining bastions of organic-controlled civilisation are governed by the monolithic RBS corporation, whose heavily-armed city ships watch over systems and guard against J-droid attack. Agains and again over the millenia, Force users have been all but wiped out by the fanatical droids who seem obsessed with eliminating what they cannot control. However, as always, life finds a way.
 
 ## Galactic Lore
