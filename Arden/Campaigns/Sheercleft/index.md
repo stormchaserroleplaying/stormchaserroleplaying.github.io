@@ -1,8 +1,8 @@
 ---
 title: Sheercleft
 nav_order: 1
-parent: The Chronicles of Arden
-grand_parent: Arden Campaigns
+grand_parent: The Chronicles of Arden
+parent: Arden Campaigns
 ---
 
 # Sheercleft

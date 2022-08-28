@@ -1,8 +1,8 @@
 ---
 title: Hunters
 nav_order: 2
-parent: The Chronicles of Arden
-grand_parent: Arden Campaigns
+grand_parent: The Chronicles of Arden
+parent: Arden Campaigns
 ---
   
 # Hunters

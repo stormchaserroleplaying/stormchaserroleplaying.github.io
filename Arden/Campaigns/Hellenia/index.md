@@ -1,8 +1,8 @@
 ---
 title: Hellenia
 nav_order: 4
-parent: The Chronicles of Arden
-grand_parent: Arden Campaigns
+grand_parent: The Chronicles of Arden
+parent: Arden Campaigns
 ---
  
 # Hellenia

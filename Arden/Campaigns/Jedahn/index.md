@@ -1,8 +1,8 @@
 ---
 title: Je'dahn
 nav_order: 3
-parent: The Chronicles of Arden
-grand_parent: Arden Campaigns
+grand_parent: The Chronicles of Arden
+parent: Arden Campaigns
 ---
   
 # Je'dahn
