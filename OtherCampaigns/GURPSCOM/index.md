@@ -14,5 +14,5 @@ Good luck, Commander.
 **Status:** Complete<br>
 **System:** [GURPS 4e](http://www.sjgames.com/gurps/)<br>
 **Start Date:** 18th of October, 2018<br>
-**End Date:** 15th of January, 2029<br>
+**End Date:** 15th of January, 2019<br>
 **Thread:** [GURPS-COM: Enemy Unknown](https://app.roll20.net/forum/post/6894776/prologue-enemy-unknown/?pagenum=1)
