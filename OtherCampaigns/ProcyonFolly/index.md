@@ -10,7 +10,7 @@ consortium of powerful families, greedy merchant Guilds that control entire cate
 
 The Procyon sector, however, is too many jumps away from the Core to matter to those important players. There are a few wellmapped Hyperspace lanes, four systems, and jumpgates to more and less fortunate parts of known space. This far out, there is less of a Hegemonic presence, and local powers include pirate queens, criminal syndicates, and legitimate corporate interests.
 
-The worlds here are peppered with ruins of the Ur—an ancient civilization officially referred to as the Precursors—and mystics claim the flow of the Galactic Way lines are strong in the sector. Humans and aliens live and work side by side in common interest against both Hegemonic rule and the organized criminals that prey on the weak.
+The worlds here are peppered with ruins of the Ur — an ancient civilization officially referred to as the Precursors — and mystics claim the flow of the Galactic Way lines are strong in the sector. Humans and aliens live and work side by side in common interest against both Hegemonic rule and the organized criminals that prey on the weak.
 
 **Status:** Complete<br>
 **System:** [Scum and Villainy](https://evilhat.com/product/scum-and-villainy/)<br>
