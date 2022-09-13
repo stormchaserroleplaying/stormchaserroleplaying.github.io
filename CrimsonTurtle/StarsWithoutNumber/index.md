@@ -5,4 +5,4 @@ has_children: true
 nav_order: 1
 ---
 
-# Crimson Turtle House Rules for *Stars Without Number*
+# Crimson Turtle House Rules for *Stars Without Number*
