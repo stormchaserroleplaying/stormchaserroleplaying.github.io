@@ -38,7 +38,7 @@ The Oxford colleges and their controlling organisations are as follows:
 | 1886 (Built)/1995 (Teaching) | Mansfield College |
 | 1886 | St Hugh's College |
 | 1893 | St Hilda's College |
-| 1929 (Built)/1961 (Teaching) St Peter's College |
+| 1929 (Built)/1961 (Teaching) | St Peter's College |
 | 1937 | Nuffield College |
 | 1950 (Built)/1963 (Teaching) | St Antony's College |
 | 1962 | Linacre College |
