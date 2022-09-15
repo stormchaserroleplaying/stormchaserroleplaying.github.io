@@ -18,7 +18,7 @@ The fiefs that comprise the Baronies of Avalon, as well as their rulers, are:
 * The **Fief of Lincoln** in the English Midlands is ruled by the Ventrue Baron Stephen.
 * The **Fief of Chester** on the border with Wales is ruled by the Ventrue Baron Marcus Verus, childe of Prince Mithras of London.
 * The **Fief of Gloucester** on the southern border with Wales is ruled by the Malkovian Baroness Seren.
-* The **Fief of Norwich** in East Anglia is ruled by the Mekhet Baroness.
+* The **Fief of Norwich** in East Anglia is ruled by the Mekhet Baroness Sybil.
 * The **Fief of Exeter** in England's southwest is ruled by the Ventrue Baron Hugh.
 * The **Fief of Winchester**, located between Cornwall and London, is ruled by the Daeva Baroness Melusine d'Anjou.
 * The **Fief of London** has been the personal domain of the Ventrue Prince Mithras since Roman times.
