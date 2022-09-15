@@ -1,6 +1,6 @@
 ---
 title: The Sentinels
-nav_order: 4
+nav_order: 3
 parent: Other Campaigns
 ---
 

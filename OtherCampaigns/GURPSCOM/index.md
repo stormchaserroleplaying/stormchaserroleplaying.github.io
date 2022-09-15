@@ -1,6 +1,6 @@
 ---
 title: GURPS-COM
-nav_order: 8
+nav_order: 7
 parent: Other Campaigns
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Fallout Alpha
-nav_order: 6
+nav_order: 5
 parent: Other Campaigns
 ---
 
