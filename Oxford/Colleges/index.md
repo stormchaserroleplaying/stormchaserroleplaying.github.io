@@ -2,6 +2,7 @@
 title: College Affiliations
 nav_order: 1
 parent: Oxford By Night
+has_children: true
 ---
 
 # College Affiliations
