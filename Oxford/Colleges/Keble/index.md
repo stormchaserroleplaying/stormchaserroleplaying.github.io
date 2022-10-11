@@ -1,10 +1,13 @@
 ---
-title: Pythia Concord
+title: Keble College
 parent: College Affiliations
 grand_parent: Oxford By Night
 ---
 
-# The Pythia Concord
+# Keble College
+Keble College is controlled by the covenant of the Pythia Concord.
+
+## The Pythia Concord
 *"I carry a torch in one hand, and a bucket of water in the other. With these things I will set fire to heaven and put out the flames of hell, so that voyagers to God can rip the veils and see the real goal."*
 
 The Pythia Concord is made up of those Kindred who seek ancient knowledge, guarded secrets, ineffable auguries and the power that they all hold. With the namesake of one of the most ancient oracles, the Concord works to amass a wealth of knowledge that would make the library of Alexandria look like a stack of magazines on a coffee table. This collection does not reside in a single location, but is dispersed across the members of the Concord. When assembled, they create the Delphi Archive, the largest compendium of knowledge that the world will ever know.
