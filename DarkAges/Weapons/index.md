@@ -37,7 +37,7 @@ A sweord is not merely a death-dealing weapon, but a potent symbol of leadership
 |:-----|-----:|:------:|:-----------|:-------:|-------:|
 | Seax / Sax | 20 d | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Finesse, light, parry | 7 | 2 lb. |
 | Narrowseax / Schmalsax | 15 d | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Finesse, parry | 9 | 2 lb. |
-| Sweord | 240 d | 2d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Finesse, parry, prestigious | 9 | 2 lb. |
+| Sweord | 240 d | 2d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Finesse, parry, prestigious, splendour 1 | 9 | 2 lb. |
 | Axe | 15 sp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Brutal 1, disarm, hooked, versatile | 11 | 2 lb. |
 | Longseax / Langsax | 15 d | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | Parry, versatile | 11 | 3 lb. |
 | Warrior's Spear | 15 d | 1d10 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | Brace, brutal 1, mounted, reach, sharp 1, shield, two-handed | 11 | 5 lb. |
