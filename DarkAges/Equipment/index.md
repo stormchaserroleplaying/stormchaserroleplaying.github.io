@@ -14,7 +14,7 @@ Cost is measured in silver pounds, shillings and pence, marked “l”, “s”,
 
 | 1 pound | is | 60 shillings |
 |:-:|:-:|:-:|
-| 1 shilling | is | 4 pence |
+| **1 shilling** | **is** | **4 pence** |
 
 Typically, these measures are conceptual rather than literal. Most ceorls will live their entire lives and never see a single coin. Men use them only to calculate fair exchanges or the sum of goods due in *wergild*. A few kings have begun to mint silver *sceatta* coins, equal to a shilling in value, in mimicry of the Arab coins the Frankish traders sometimes bring, but these are things of art and kingly pride rather than coins for common trade. When coins find their way into England, their value is measured by their metal and weight, with a little extra for their beauty and the quality of their artistry.
 
