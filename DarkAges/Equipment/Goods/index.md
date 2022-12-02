@@ -10,9 +10,7 @@ grand_parent: Dark Ages
 * **Cloaks** are worn by nearly all in cold weather and the brooches used to fasten them are ways to show wealth. A fine embroidered cloak grants 1 point of Splendour.
 * **Clothes** are costly. Fine clothes grant a Splendour of 1, splendid ones grant 2, and those fashioned of the marvelous silk of Tang grant 4 Splendour. A hero felled in battle will spoil his clothes and need them mended.
 * **Common artisan’s tools** are hammers, saws, tongs, vats or other such things sufficient to carry out the ordinary work of a smith, or leatherworker, or other who has a task more complex than simple weaving or hewing.
-
-## Sacks and Satchels 
-Sacks and satchels are how men carry weights. Without some way to bear a burden a hero may find it cumbersome to haul all his possessions.
+* **Sacks satchels** are how men carry weights. Without some way to bear a burden a hero may find it cumbersome to haul all his possessions.
 
 | Goods | Cost |
 |:------|-----:|
