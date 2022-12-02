@@ -23,7 +23,7 @@ Common artisan’s tools are hammers, saws, tongs, vats or other such things suf
 Sacks and satchels are how men carry weights. Without some way to bear a burden a hero may find it cumbersome to haul all his possessions.
 
 | Goods | Cost |
-|:-----:|:----:|
+|:------|-----:|
 | Arrows, 5 | 1 d |
 | Bed, fine | 60 d |
 | Blanket, Woolen | 10 d |
@@ -57,7 +57,7 @@ Sacks and satchels are how men carry weights. Without some way to bear a burden 
 | Wool, 175 lb. wey | 120 d |
 
 | Livestock | Cost |
-|:---------:|:----:|
+|:----------|-----:|
 | Cow | 20 d |
 | Goat | 2 d |
 | Horse | 120 d |
@@ -68,7 +68,7 @@ Sacks and satchels are how men carry weights. Without some way to bear a burden 
 | Slave, male | 240 d |
 
 | Foodstuffs | Cost |
-|:----------:|:----:|
+|:-----------|-----:|
 | Ale, 2 gallons | 1 d |
 | Barley, 12 pounds | 1 d |
 | Beef, fresh, 1 pound | 1 d |
