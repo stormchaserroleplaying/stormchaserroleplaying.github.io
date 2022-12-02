@@ -21,7 +21,7 @@ Splendour is measured in points. Each piece of exceptional equipment or splendid
 | 15-19 | 1-4 |
 | 20 or more | 1-5 |
 
-A reroll may be used to reroll a Charisma (Persuasion) check, Charisma (Intimidation) check, or even a Charisma (Deception) check if the hero's Splendour makes the more believable. In all cases, the better of the two rolls is used. A Splendour reroll may be used only once for any given Charisma check.
+A reroll may be used to reroll a Charisma (Persuasion) check, Charisma (Intimidation) check, or even a Charisma (Deception) check if the hero's Splendour makes them more believable. In all cases, the better of the two rolls is used. A Splendour reroll may be used only once for any given Charisma check.
 
 A hero may count no more items towards their Splendour score than their total character level. Thus, a novice hero of first level, who has both a beautiful embroidered cloak and a fine sword that he won in battle, receives Splendour from only one of these things, while a grizzled legend of tenth level may benefit from the Splendour of ten different items. The hero must be wearing and displaying the items to gain Splendour from them and it must make sense that he should be wearing or bearing all these things at once. A hero with two tunics or two cloaks wrapped around his chest will be thought only a clown.
 
