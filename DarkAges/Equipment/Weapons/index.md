@@ -1,7 +1,8 @@
 ---
 title: Weapons
-nav_order: 4
-parent: Dark Ages
+nav_order: 2
+parent: Equipment
+grand_parent: Dark Ages
 ---
 
 # Weapons

@@ -1,7 +1,8 @@
 ---
 title: Armour and Shields
-nav_order: 3
-parent: Dark Ages
+nav_order: 1
+parent: Equipment
+grand_parent: Dark Ages
 ---
 
 # Armour and Shields
