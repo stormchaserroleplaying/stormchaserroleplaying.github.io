@@ -16,6 +16,9 @@ That said, a true sweord commands respect. A two-edged pattern-welded blade with
 ### Prestigious
 A sweord is not merely a death-dealing weapon, but a potent symbol of leadership, social status and ancestral leadership. A character who carries a sweord commands basic respect from any freefolk, granting advantage on Charisma (Persuasion) and Charisma (Intimidation) checks at the GM's discretion.
 
+## Fine Weapons
+A fine weapon gains a +1 bonus to all damage rolls and adds an additional point of Splendour to the bearer. A fine weapon is typically worth its usual price, plus an additional 240 pence. Exceptionally fine weapons may be worth even more and grant even more Splendour. However, fine weapons are rare as only a master smith can make one.
+
 ##### Simple Melee Weapons
 
 | Name | Cost | Damage | Properties | Str/Dex | Weight | 
