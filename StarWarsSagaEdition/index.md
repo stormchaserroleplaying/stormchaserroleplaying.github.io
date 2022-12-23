@@ -1,6 +1,6 @@
 ---
 title: Star Wars Saga Edition
-nav_order: 4
+nav_order: 3
 ---
 
 # Stormchaser's House Rules for *Star Wars Saga Edition*
