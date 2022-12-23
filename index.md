@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-nav_order: 1
+nav_exclude: true
 ---
 
 Welcome to the official website for Stormchaser Roleplaying!
