@@ -21,3 +21,21 @@ The Dawn of Defiance campaign opens some months after the rise of the Empire, wi
 - [Unforgiven: A Defiance Story](https://app.roll20.net/forum/post/10653821/unforgiven-a-defiance-story/?pagenum=1)
 - [Sunset on Corsin: A Defiance Story](https://app.roll20.net/forum/post/11007802/sunset-on-corsin-a-defiance-story)
 - [Episode 4: Echoes of the Jedi](https://app.roll20.net/forum/post/10605047/episode-4-echoes-of-the-jedi/?pagenum=1)
+
+## Characters
+### Current cast
+- [#51-339 (Sleep) - Class I Droid Noble / Scoundrel / Independent Droid](https://app.roll20.net/forum/post/9577090/number-51-339-sleep)
+- [Aeila Crezqir'hem - Twi'lek Jedi](https://app.roll20.net/forum/post/10224024/aeila-crezqirhem)
+- [Jude Verron - Human Jedi](https://app.roll20.net/forum/post/10229230/jude-verron)
+- [Nexio Aldira - Twi'lek Noble / Scoundrel](https://app.roll20.net/forum/post/9534670/nexio-aldira)
+- [Renn Awaud - Human Soldier](https://stormchaserroleplaying.com/OtherCampaigns/DawnofDefiance/Renn)
+
+### Former cast
+- [Caersk Sen'dair - Bothan Scoundrel / Soldier](https://app.roll20.net/forum/post/9404033/caersk-sendair)
+- [Farah Kolt - Human Scout / Soldier](https://app.roll20.net/forum/post/6032936/farah-kolt)
+- [Hugo Ragon - Human Soldier](https://app.roll20.net/forum/post/6052137/hugo-ragon)
+- [Lekz - Chiss Noble / Scout / Soldier](https://app.roll20.net/forum/post/6889029/lekz)
+- [Parn Starbright - Human Scoundrel / Soldier](https://app.roll20.net/forum/post/6891123/parn-starbright)
+- [Sera Kolt - Human Jedi](https://app.roll20.net/forum/post/6517723/sera-kolt)
+- [Tahle Kal and R0 S4 - Duros Scoundrel and Class II Droid Scoundrel](https://app.roll20.net/forum/post/6017180/tahle-kal-and-r0-s4)
+- [Yrain Yahb - Sullustan Soldier](https://app.roll20.net/forum/post/9425503/yrain-yahb)
