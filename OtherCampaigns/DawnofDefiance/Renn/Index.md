@@ -1,7 +1,7 @@
 ---
 title: Renn Awaud
-nav_order: 1
-parent: Other Campaigns
+parent: Dawn of Defiance
+grand_parent: Other Campaigns
 ---
 
 # Renn Awaud
