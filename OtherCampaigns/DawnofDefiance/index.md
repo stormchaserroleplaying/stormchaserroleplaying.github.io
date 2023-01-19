@@ -30,7 +30,7 @@ The Dawn of Defiance campaign opens some months after the rise of the Empire, wi
 - [Aeila Crezqir'hem - Twi'lek Jedi](https://app.roll20.net/forum/post/10224024/aeila-crezqirhem)
 - [Jude Verron - Human Jedi](https://app.roll20.net/forum/post/10229230/jude-verron)
 - [Nexio Aldira - Twi'lek Noble / Scoundrel](https://app.roll20.net/forum/post/9534670/nexio-aldira)
-- [Renn Awaud - Human Soldier](https://stormchaserroleplaying.com/OtherCampaigns/DawnofDefiance/Renn/Index.html)
+- [Renn Awaud - Human Soldier](https://stormchaserroleplaying.com/OtherCampaigns/DawnofDefiance/Renn/)
 
 ### Former cast
 - [Caersk Sen'dair - Bothan Scoundrel / Soldier](https://app.roll20.net/forum/post/9404033/caersk-sendair)
