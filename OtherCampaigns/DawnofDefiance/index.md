@@ -2,6 +2,7 @@
 title: Dawn of Defiance
 nav_order: 1
 parent: Other Campaigns
+has_children: yes
 ---
 
 # Dawn of Defiance
