@@ -17,8 +17,9 @@ Over the course of 80 or so years of superheroes, Halcyon City has seen three re
 
 That’s you. You’re the new generation, and soon enough, this city with its amazing miracles and impossible wonders will be yours. Who will you be when it’s time to inherit Halcyon’s reins? What will you make of the place? Whose butts will you kick on the way?
 
-**Status:** Ongoing<br>
+**Status:** Complete<br>
 **System:** [Masks: A New Generation](https://magpiegames.com/pages/masks)<br>
 **Start Date:** 2nd of October, 2021<br>
+**End Date:** 17th of February, 2023<br>
 [**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1n8oYcGHjq3dJ_yonCeRpj6ImdtKJ_si0ok3BChQx-AI/edit#gid=0)<br>
 [**Thread**](https://discord.com/channels/476843342001602570/893843266309615617)
