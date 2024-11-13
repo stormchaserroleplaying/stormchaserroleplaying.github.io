@@ -11,8 +11,9 @@ When Roric died, the peace that he had brokered between two enemy gangs fell apa
 
 **A local crew of hawkers** is poised to profit from all of this, or be swept up in the chaos and destroyed.
 
-**Status:** Ongoing<br>
+**Status:** Complete<br>
 **System:** [Blades in the Dark](https://bladesinthedark.com/)<br>
 **Start Date:** 2nd of August, 2021<br>
+**End Date:** 12th of February, 2024<br>
 [**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1Vggl0eHFcUwHgDHwqY2TgP1V-2K-L9UgQIJ_SCyJteI/edit#gid=931661848)<br>
 [**Thread**](https://discord.com/channels/476843342001602570/871796471710777405)
