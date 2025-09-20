@@ -17,6 +17,9 @@ More information on Stormchaser Roleplaying projects, house rules and campaigns 
 * [SC5e Legacy Index](https://www.gmbinder.com/share/-MjzjZBb7BG23h6HaK7J)
 * [Grit and Glory](https://www.gmbinder.com/share/-LDHolQY2FURKf-8xCT3)
 
+# Partners
+* [Metanoia Engine](https://www.metanoia-engine.com/) is a d% ttrpg system built as a passion project by Mucho.
+
 ---
 
 <p align="center">
