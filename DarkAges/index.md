@@ -7,9 +7,10 @@ has_children: true
 # The *Dark Ages* Campaign Setting
 The year is 598 A.D. - the final years of the 6th Century and the start of the Augustinian Mission. These are the post-Roman British Isles. A melting pot of cultures and religions. An ever changing land of danger and opportunity.
 
-**Status:** Ongoing<br>
+**Status:** Complete<br>
 **System:** [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/)<br>
 **Start Date:** 4th of August, 2017<br>
+**End Date:** 19th of September, 2025<br>
 [**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1ohznZ9R9co3HiR-wGMZclO5ePocoXKEibz25TL-iPoE/edit#gid=680984753)<br>
 
 ## Threads
