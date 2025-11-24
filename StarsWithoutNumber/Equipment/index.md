@@ -1,7 +1,6 @@
 ---
 title: Equipment
 parent: Stars Without Number
-grand_parent: The Crimson Turtle Timeline
 nav_order: 3
 ---
 
@@ -26,7 +25,7 @@ If a psychic with at least Stab 1 and wielding an ignited lightsaber is missed b
 
 | Stars Without Number | Crimson Turtle |
 |:---------------------|:---------------|
-| Pretech | J-tech |
+| Pretech | Rakata tech |
 | Monoblade | Vibroblade |
 | Laser Pistol/Rifle | Blaster Pistol/Rifle |
 | Thermal Pistol/Plasma Projector | Disruptor Pistol/Rifle |

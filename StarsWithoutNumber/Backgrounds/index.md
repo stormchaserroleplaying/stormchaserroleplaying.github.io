@@ -1,7 +1,6 @@
 ---
 title: Backgrounds
 parent: Stars Without Number
-grand_parent: The Crimson Turtle Timeline
 nav_order: 2
 ---
 

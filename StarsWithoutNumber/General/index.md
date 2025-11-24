@@ -1,7 +1,6 @@
 ---
 title: General 
 parent: Stars Without Number
-grand_parent: The Crimson Turtle Timeline
 nav_order: 1
 ---
 
