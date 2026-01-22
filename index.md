@@ -12,6 +12,7 @@ Roughly half of my campaigns are set in my own custom, self-written fantasy sett
 More information on Stormchaser Roleplaying projects, house rules and campaigns can be found in the side bar, as well as in the list of links below.
 
 # Helpful Links
+* [The Stormchaser Roleplaying Community Forum](https://forum.stormchaserroleplaying.com/)
 * [The Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/) (*Under Construction*)
 * [SC5e Index](https://www.gmbinder.com/share/-MjzooP55UaAVbrEwN7C)
 * [SC5e Legacy Index](https://www.gmbinder.com/share/-MjzjZBb7BG23h6HaK7J)
