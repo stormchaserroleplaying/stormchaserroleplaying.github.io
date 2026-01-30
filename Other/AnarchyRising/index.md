@@ -18,5 +18,5 @@ As unrest grips Mos Eisley's underworld, Prello the Hutt contacts a group of mys
 [**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1_uGT-i8m_F5pU7oBIy0Ger4iZMehwk88A5sUI9davdo/edit#gid=1761183527)
 
 ## Threads
-- [Part 1](https://discord.com/channels/463731807624495126/680095089409786024)
-- [Part 2](https://discord.com/channels/476843342001602570/815283361966325771)
+- [Part 1](https://stormchaserroleplaying.com/Archive/Anarchy1.html)
+- [Part 2](https://stormchaserroleplaying.com/Archive/Anarchy2.html)
