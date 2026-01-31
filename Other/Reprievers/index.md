@@ -16,4 +16,10 @@ When Roric died, the peace that he had brokered between two enemy gangs fell apa
 **Start Date:** 2nd of August, 2021<br>
 **End Date:** 12th of February, 2024<br>
 [**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1Vggl0eHFcUwHgDHwqY2TgP1V-2K-L9UgQIJ_SCyJteI/edit#gid=931661848)<br>
-[**Thread**](https://discord.com/channels/476843342001602570/871796471710777405)
+**Thread**
+- [Main Thread](https://stormchaserroleplaying.com/Archive/Reprievers/Reprievers.html)
+- [A Night Out With Petra](https://stormchaserroleplaying.com/Archive/Reprievers/ReprieversANightOutWithPetra.html)
+- [Crowley's Web](https://stormchaserroleplaying.com/Archive/Reprievers/ReprieversCrowleysWeb.html)
+- [Loo and Mathias Go To Stazia](https://stormchaserroleplaying.com/Archive/Reprievers/ReprieversLooandMathiasGoToStazia.html)
+- [Phantom Pain](https://stormchaserroleplaying.com/Archive/Reprievers/ReprieversPhantomPain.html)
+- [What Do You Call A Spider Tangled In His Own Web](https://stormchaserroleplaying.com/Archive/Reprievers/ReprieversWhatDoYouCallASpiderTangledInHisOwnWeb.html)

@@ -17,4 +17,4 @@ The worlds here are peppered with ruins of the Ur — an ancient civilization of
 **Start Date:** 2nd of August, 2021<br>
 **End Date:** 9th of August, 2022<br>
 [**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1zel4fFKOzCbrjlrKBTDM_zfzjFoOymNqqRklhhocjg8/edit#gid=495132053)<br>
-[**Thread**](https://discord.com/channels/476843342001602570/871647304199864351)
+[**Thread**](https://stormchaserroleplaying.com/Archive/ProcyonFolly.html)

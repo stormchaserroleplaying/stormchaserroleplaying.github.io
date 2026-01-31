@@ -22,4 +22,5 @@ That’s you. You’re the new generation, and soon enough, this city with its a
 **Start Date:** 2nd of October, 2021<br>
 **End Date:** 17th of February, 2023<br>
 [**Tracker Sheet**](https://docs.google.com/spreadsheets/d/1n8oYcGHjq3dJ_yonCeRpj6ImdtKJ_si0ok3BChQx-AI/edit#gid=0)<br>
-[**Thread**](https://discord.com/channels/476843342001602570/893843266309615617)
+[**Thread**](https://stormchaserroleplaying.com/Archive/Sentinels.html
+)
